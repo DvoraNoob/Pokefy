@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700;900&display=swap');
+
+@font-face {
+  font-family: "Pokemon-Solid";
+  src: url("./fonts/Pokemon/Pokemon-Solid.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Pokemon-Hollow";
+    src: url('./fonts/Pokemon/Pokemon-Hollow.ttf') format("truetype"); 
+}
+
+@font-face {
+    font-family: "Spotify-Font";
+    src: url('./fonts/Spotify/CircularSp-Book.woff2') format("woff2");
+}
